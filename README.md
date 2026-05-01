@@ -74,8 +74,12 @@ The project includes **data cleaning, transformation, and visualization**, along
 * `dataset.csv` → Cleaned dataset 
 * Few Screenshots:-
 * <img width="1413" height="611" alt="Screenshot 2026-04-30 221927" src="https://github.com/user-attachments/assets/9014b525-ae89-490d-9116-f0048f33d1ef" />
+
 * <img width="1483" height="591" alt="Screenshot 2026-04-30 221445" src="https://github.com/user-attachments/assets/f5b78186-ac04-4495-a219-d5d0fc745947" />
+
 * <img width="886" height="538" alt="Screenshot 2026-04-30 232138" src="https://github.com/user-attachments/assets/d1944429-61db-41ac-b994-34ed2db3144f" />
+
+* Updating data automatically by applying filter video:- 
 * https://github.com/user-attachments/assets/c00f29fe-2215-4ba4-9f29-b8a568b16164
 
 
