@@ -1,4 +1,4 @@
-# 📊 Food Delivery Data Analysis & Dashboard (Excel)
+# 📊 Food Delivery Data Analysis & Dashboard (MS Excel)
 
 ## 🔹 Overview
 
@@ -97,6 +97,7 @@ This project demonstrates how Excel can be effectively used for **data analysis,
 ## 🔹 Author
 
 **Aditya Vikram Singh**
+
 Aspiring Business Analyst
 
 ---
